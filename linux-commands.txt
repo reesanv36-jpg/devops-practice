@@ -1,0 +1,5 @@
+My DevOps Learning
+pwd - Show current directory
+ls - List files and folders
+mkdir - Create a directory
+cd - Change directory
